@@ -31,17 +31,3 @@ input the tickets and extra attractions required, then calculate the total cost 
 
 **Task 3** – ensuring each booking is the best value
 Check that the total for each booking gives the best value and offer an alternative if this is not the case. For example, buying two family tickets is better than a group ticket for group of 10 that includes four adults and six children.
-Ticket type Cost for
-one day
-
-Cost for two
-days
-one adult $20.00 $30.00
-
-one child (an adult may bring up to two children) $12.00 $18.00
-one senior $16.00 $24.00
-
-family ticket (up to two adults or seniors, and three
-
-children) $60.00 $90.00
-groups of six people or more, price per person $15.00 $22.50
